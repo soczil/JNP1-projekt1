@@ -1,1 +1,1 @@
-# JNP1-projekt1
+Pierwsze zadanie zaliczeniowe z JNP1. (robione w dwie osoby)
