@@ -1,4 +1,4 @@
-Pierwsze zadanie zaliczeniowe z JNP1. (robione w dwie osoby)
+Pierwsze zadanie zaliczeniowe z JNP1.
 
 Treść zadania:
 
